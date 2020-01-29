@@ -1,0 +1,15 @@
+{
+  "name": "async-poke-api",
+  "version": "1.0.0",
+  "description": "async call to pokeapi for get kanto pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tadeo Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
